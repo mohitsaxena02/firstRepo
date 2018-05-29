@@ -6,4 +6,4 @@ This is test second file. again add for Comaptibility check.
 Now second time edits here.. which need to done... need to comapre
 
 *5%12 #$%!! "@3 ",;.>,?
-
+after copy tp g_2.txt
